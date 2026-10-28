@@ -42,3 +42,5 @@ cd php-project-45
 <div> <a href='https://asciinema.org/a/xz3FQylGeQJsmtyj'> Проверка на чётность </a> </div>
 <div> <a href='https://asciinema.org/a/ACMz7ZckCnl9isI1'> Калькулятор </a> </div>
 <div> <a href='https://asciinema.org/a/c43Z91IQotCULv2J'> НОД </a> </div>
+<div> <a href='https://asciinema.org/a/bEF32xFcLWva4Y0A'> Арифмитическая прогрессия </a> </div>
+<div> <a href='https://asciinema.org/a/7GVjzmXDjStmQD2i'> Простое число </a> </div>

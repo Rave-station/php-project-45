@@ -2,12 +2,7 @@
     "name": "hexlet/code",
     "description": "Brain Games project",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Hexlet\\Code\\": "src/"
-        }
-    },
-    "authors": [
+        "authors": [
         {
             "name": "Rave-station",
             "email": "zvslavik20@gmail.com"
@@ -18,14 +13,24 @@
     },
 	"bin": [
 	  "bin/brain-games",
-	  "bin/brain-even"
+	  "bin/brain-even",
+	  "bin/brain-calc",
+	  "bin/brain-gcd",
+	  "bin/brain-progression",
+	  "bin/brain-prime"
 ],
 	"autoload": {
 	   "psr-4": {
 		"BrainGames\\": "src/"
 },
 "files": [
-	"src/Cli.php"
+	"src/Cli.php",
+	"src/Engine.php",
+            "src/Games/Even.php",
+            "src/Games/Calc.php",
+	    "src/Games/Gcd.php",
+	    "src/Games/Progression.php",
+	    "src/Games/Prime.php"
 ]
 },
     "require-dev": {
