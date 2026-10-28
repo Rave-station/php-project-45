@@ -39,4 +39,5 @@ cd php-project-45
 
 ## Демонстрация
 
-https://asciinema.org/a/xz3FQylGeQJsmtyj
+<a href='https://asciinema.org/a/xz3FQylGeQJsmtyj'> Проверка на чётность </a>
+<a href='https://asciinema.org/a/ACMz7ZckCnl9isI1'> Калькулятор </a>
