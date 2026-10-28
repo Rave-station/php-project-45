@@ -39,4 +39,4 @@ cd php-project-45
 
 ## Демонстрация
 
-https://asciinema.org/a/RGZvtxIFA9NnV4u8
+https://asciinema.org/a/xz3FQylGeQJsmtyj
